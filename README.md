@@ -1,2 +1,2 @@
-# zobaczmy
-to będzie pierwsza rzecz jaką wrzucam na githuba
+# zobaczmy czym jest GitHub
+to będzie pierwsza rzecz jaką wrzucam na githuba, pozdrawiam
